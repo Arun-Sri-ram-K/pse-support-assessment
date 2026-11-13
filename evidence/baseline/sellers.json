@@ -1,0 +1,58 @@
+[
+    {
+        "id": 4,
+        "name": "Al Noor Fuel & Lubricants LLC",
+        "trn": "100536284100003",
+        "peppolId": "0235:1005362841",
+        "emirate": "AUH"
+    },
+    {
+        "id": 1,
+        "name": "Desert Rose Trading LLC",
+        "trn": "100234567800003",
+        "peppolId": "0235:1002345678",
+        "emirate": "DXB"
+    },
+    {
+        "id": 6,
+        "name": "Ghaf Tree Caf\u00e9 LLC",
+        "trn": "100754862300003",
+        "peppolId": "0235:1007548623",
+        "emirate": "FUJ"
+    },
+    {
+        "id": 3,
+        "name": "Marina Bay Hospitality LLC",
+        "trn": "100427193500003",
+        "peppolId": "0235:1004271935",
+        "emirate": "DXB"
+    },
+    {
+        "id": 2,
+        "name": "Oasis Builders Supply LLC",
+        "trn": "100318274600003",
+        "peppolId": "0235:1003182746",
+        "emirate": "SHJ"
+    },
+    {
+        "id": 7,
+        "name": "Palm Coast Electronics LLC",
+        "trn": "100863917200003",
+        "peppolId": "0235:1008639172",
+        "emirate": "DXB"
+    },
+    {
+        "id": 5,
+        "name": "Sahara Medical Supplies FZE",
+        "trn": "100645371900003",
+        "peppolId": "0235:1006453719",
+        "emirate": "AJM"
+    },
+    {
+        "id": 8,
+        "name": "Zayed Port Logistics LLC",
+        "trn": "100972845600003",
+        "peppolId": "0235:1009728456",
+        "emirate": "AUH"
+    }
+]

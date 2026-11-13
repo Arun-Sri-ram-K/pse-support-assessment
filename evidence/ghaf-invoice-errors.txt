@@ -1,0 +1,172 @@
+===== 7e148fe1-7802-4836-b70d-defcf61c6187 =====
+{
+  "invoiceNumber": "GTC-118-G4YD",
+  "status": "Rejected",
+  "errors": [
+    {
+      "row": 2,
+      "rule": "AE-BR-04",
+      "field": "Invoice issue date*",
+      "message": "[Invoice issue date*] must be a date in YYYY-MM-DD format (got '13/11/2026')."
+    },
+    {
+      "row": 2,
+      "rule": "AE-BR-04",
+      "field": "Payment due date*",
+      "message": "[Payment due date*] must be a date in YYYY-MM-DD format (got '13/12/2026')."
+    },
+    {
+      "row": 3,
+      "rule": "AE-BR-04",
+      "field": "Invoice issue date*",
+      "message": "[Invoice issue date*] must be a date in YYYY-MM-DD format (got '13/11/2026')."
+    },
+    {
+      "row": 3,
+      "rule": "AE-BR-04",
+      "field": "Payment due date*",
+      "message": "[Payment due date*] must be a date in YYYY-MM-DD format (got '13/12/2026')."
+    }
+  ],
+  "events": [
+    {
+      "status": "Parsed",
+      "detail": "Created from uploaded file",
+      "at": "2026-11-13T15:13:26.21322Z"
+    },
+    {
+      "status": "Rejected",
+      "detail": "Failed portal validation: AE-BR-04 [Invoice issue date*] must be a date in YYYY-MM-DD format (got '13/11/2026').",
+      "at": "2026-11-13T15:13:26.621883Z"
+    }
+  ]
+}
+===== 91cf1f8c-a427-44c4-a831-c4d6e5ea1ed5 =====
+{
+  "invoiceNumber": "GTC-119-G4YD",
+  "status": "Rejected",
+  "errors": [
+    {
+      "row": 4,
+      "rule": "AE-BR-04",
+      "field": "Invoice issue date*",
+      "message": "[Invoice issue date*] must be a date in YYYY-MM-DD format (got '13/11/2026')."
+    },
+    {
+      "row": 4,
+      "rule": "AE-BR-04",
+      "field": "Payment due date*",
+      "message": "[Payment due date*] must be a date in YYYY-MM-DD format (got '13/12/2026')."
+    },
+    {
+      "row": 5,
+      "rule": "AE-BR-04",
+      "field": "Invoice issue date*",
+      "message": "[Invoice issue date*] must be a date in YYYY-MM-DD format (got '13/11/2026')."
+    },
+    {
+      "row": 5,
+      "rule": "AE-BR-04",
+      "field": "Payment due date*",
+      "message": "[Payment due date*] must be a date in YYYY-MM-DD format (got '13/12/2026')."
+    }
+  ],
+  "events": [
+    {
+      "status": "Parsed",
+      "detail": "Created from uploaded file",
+      "at": "2026-11-13T15:13:26.21322Z"
+    },
+    {
+      "status": "Rejected",
+      "detail": "Failed portal validation: AE-BR-04 [Invoice issue date*] must be a date in YYYY-MM-DD format (got '13/11/2026').",
+      "at": "2026-11-13T15:13:27.029554Z"
+    }
+  ]
+}
+===== 52321bb8-ddaf-4ce4-a388-98a897320a8a =====
+{
+  "invoiceNumber": "GTC-120-G4YD",
+  "status": "Rejected",
+  "errors": [
+    {
+      "row": 6,
+      "rule": "AE-BR-04",
+      "field": "Invoice issue date*",
+      "message": "[Invoice issue date*] must be a date in YYYY-MM-DD format (got '14/11/2026')."
+    },
+    {
+      "row": 6,
+      "rule": "AE-BR-04",
+      "field": "Payment due date*",
+      "message": "[Payment due date*] must be a date in YYYY-MM-DD format (got '14/12/2026')."
+    },
+    {
+      "row": 7,
+      "rule": "AE-BR-04",
+      "field": "Invoice issue date*",
+      "message": "[Invoice issue date*] must be a date in YYYY-MM-DD format (got '14/11/2026')."
+    },
+    {
+      "row": 7,
+      "rule": "AE-BR-04",
+      "field": "Payment due date*",
+      "message": "[Payment due date*] must be a date in YYYY-MM-DD format (got '14/12/2026')."
+    },
+    {
+      "row": 8,
+      "rule": "AE-BR-04",
+      "field": "Invoice issue date*",
+      "message": "[Invoice issue date*] must be a date in YYYY-MM-DD format (got '14/11/2026')."
+    },
+    {
+      "row": 8,
+      "rule": "AE-BR-04",
+      "field": "Payment due date*",
+      "message": "[Payment due date*] must be a date in YYYY-MM-DD format (got '14/12/2026')."
+    }
+  ],
+  "events": [
+    {
+      "status": "Parsed",
+      "detail": "Created from uploaded file",
+      "at": "2026-11-13T15:13:26.21322Z"
+    },
+    {
+      "status": "Rejected",
+      "detail": "Failed portal validation: AE-BR-04 [Invoice issue date*] must be a date in YYYY-MM-DD format (got '14/11/2026').",
+      "at": "2026-11-13T15:13:27.637258Z"
+    }
+  ]
+}
+===== 34bb5c97-4d11-4932-b678-bdba0021316d =====
+{
+  "invoiceNumber": "GTC-121-G4YD",
+  "status": "Rejected",
+  "errors": [
+    {
+      "row": 9,
+      "rule": "AE-BR-04",
+      "field": "Invoice issue date*",
+      "message": "[Invoice issue date*] must be a date in YYYY-MM-DD format (got '15/11/2026')."
+    },
+    {
+      "row": 9,
+      "rule": "AE-BR-04",
+      "field": "Payment due date*",
+      "message": "[Payment due date*] must be a date in YYYY-MM-DD format (got '15/12/2026')."
+    }
+  ],
+  "events": [
+    {
+      "status": "Parsed",
+      "detail": "Created from uploaded file",
+      "at": "2026-11-13T15:13:26.21322Z"
+    },
+    {
+      "status": "Rejected",
+      "detail": "Failed portal validation: AE-BR-04 [Invoice issue date*] must be a date in YYYY-MM-DD format (got '15/11/2026').",
+      "at": "2026-11-13T15:13:27.841767Z"
+    }
+  ]
+}
