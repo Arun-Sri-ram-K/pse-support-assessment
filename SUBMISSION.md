@@ -2,7 +2,7 @@
 
 - **Name:** Arun Sriram K
 - **Date submitted:** 13 November 2026
-- **Repository link:** Add repository URL after submission
+- **Repository link:** https://github.com/Arun-Sri-ram-K/pse-support-assessment
 - **Total elapsed time from 6:52 PM to 10:05 PM:** 3 hours 13 minutes, including breaks; active work time was not separately tracked
 
 > Customer replies below are drafts using the exercise clock: Monday 16 November 2026, Asia/Dubai. Lab execution timestamps are separate and are from 13 November 2026 UTC.
